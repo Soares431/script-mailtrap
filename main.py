@@ -1,6 +1,6 @@
 import mailtrap as mt
 
-API_TOKEN = "f4881d7c0d7908d580dc1fe876bfda24"  # your API key here https://mailtrap.io/settings/api-tokens
+API_TOKEN = " "  # your API key here https://mailtrap.io/settings/api-tokens
 
 mail = mt.Mail(
     sender=mt.Address(email="lucas@demomailtrap.co", name="Mailtrap Test"),
