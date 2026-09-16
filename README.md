@@ -1,2 +1,2 @@
 # script-mailtrap
-Envio de E-maiem um script python com mailtrap
+Envio de E-mail em um script python com mailtrap
